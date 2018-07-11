@@ -9,7 +9,7 @@
     "baseName": "notificationmodule",
     "packageName": "za.co.tman.notification",
     "packageFolder": "za/co/tman/notification",
-    "serverPort": "8086",
+    "serverPort": "8096",
     "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
